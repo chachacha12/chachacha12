@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=130&section=header&text=Minwoo's%20Github%20Repository&fontSize=50&animation=fadeIn&desc=안녕하세요👋&descAlign=88&descAlignY=78&descSize=17)
 <br>
-> ## 시련은 있어도 실패는 없다.<br>
+> ## 코드는 사람을 위한 것<br>
 
 * ### Contacts
  

@@ -1,11 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=130&section=header&text=Minwoo's%20Github%20Repository&fontSize=50&animation=fadeIn&desc=안녕하세요👋&descAlign=88&descAlignY=78&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=130&section=header&text=Cha's%20Github%20Repository&fontSize=50&animation=fadeIn&desc=안녕하세요👋&descAlign=88&descAlignY=78&descSize=17)
 <br>
 > ## 코드는 사람을 위한 것<br>
 
-* ### Contacts
- 
-  <a href="https://www.instagram.com/minu3677/" target="_blank"><img src="https://img.shields.io/badge/Instagram-3F729B?style=flat-square&logo=Instagram&logoColor=FF3399"/></a>
-<a href="mailto:chaminwoo369@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chaminwoo369@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 ***
 

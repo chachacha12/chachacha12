@@ -4,6 +4,11 @@
 
 
 ***
+* ### Contacts
+ 
+  <a href="https://www.instagram.com/minu3677/" target="_blank"><img src="https://img.shields.io/badge/Instagram-3F729B?style=flat-square&logo=Instagram&logoColor=FF3399"/></a>
+<a href="mailto:chaminwoo369@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chaminwoo369@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+
 
 ### 
 
